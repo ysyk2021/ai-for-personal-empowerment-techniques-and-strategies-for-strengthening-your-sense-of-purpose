@@ -1,5 +1,3 @@
-Automated Mood Tracking and Analysis using AI
-========================================================================================================
 
 Mental health and well-being are essential for personal empowerment, but tracking and analyzing one's mood can be a challenging task. In this chapter, we will explore how AI can assist in automating mood tracking and analysis, providing individuals with valuable insights into their mental health and well-being.
 

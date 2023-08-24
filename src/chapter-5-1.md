@@ -1,5 +1,3 @@
-AI-Driven Emotional Support and Therapy
-==================================================================================================
 
 Mental health and well-being are essential for personal empowerment, but accessing emotional support and therapy can be a challenge for many individuals. In this chapter, we will explore how AI can assist in providing emotional support and therapy, making mental health resources more accessible and affordable.
 

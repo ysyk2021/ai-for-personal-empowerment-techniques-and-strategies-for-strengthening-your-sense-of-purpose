@@ -1,5 +1,3 @@
-Chapter 6: Managing Finances with AI
-====================================
 
 Managing finances can be a challenging task, but AI has the potential to simplify and streamline financial planning and management. In this chapter, we will explore how AI can assist in managing finances, providing individuals with tools and insights to achieve their financial goals.
 
