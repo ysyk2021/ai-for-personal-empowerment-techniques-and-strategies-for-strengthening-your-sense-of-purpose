@@ -10,3 +10,7 @@ The book is suitable for anyone interested in personal growth and development, i
 Overall, the book aims to provide readers with practical strategies and techniques for using AI to strengthen their sense of purpose and drive, ultimately leading to a more fulfilling and satisfying life.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
